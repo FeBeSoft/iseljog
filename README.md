@@ -48,6 +48,14 @@ En développement, pas encore diffusé : le code sera publié ici avec la premi�
 
 Licence prévue / Planned license : GPL-3.0
 
+## Remerciements / Credits
+
+Merci à tous ceux dont le travail a rendu Isel Jog possible / Thanks to everyone whose work made Isel Jog possible:
+
+- isel Germany AG, pour la documentation publique de ses contrôleurs et de la CPM
+- AxeMotion et la communauté [LinuxCNC](https://github.com/LinuxCNC/linuxcnc), qui documentent encore les cartes IMC4
+- les équipes de Rust, d'[egui / eframe](https://github.com/emilk/egui) et de [serialport-rs](https://github.com/serialport/serialport-rs)
+
 ---
 
 <p align="center">Un projet <a href="https://fe-be.fr">FeBe</a> - logiciels libres pour makers</p>
